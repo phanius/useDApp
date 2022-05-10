@@ -1,5 +1,13 @@
 # @usedapp/core
 
+## 1.0.3
+
+### Patch Changes
+
+- ad8b91a: 🧻 Add useLogs hook
+- d9e2ff3: Add error throwing to browser wallet activation
+- 8701d7d: 🪵 Add useRawLogs hook
+
 ## 1.0.2
 
 ### Patch Changes
